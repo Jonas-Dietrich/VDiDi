@@ -1,0 +1,811 @@
+Am 5. November ist wieder der Wettbewerb von https://register.codingcontest.org/info/how-it-works.
+---
+Die Anmeldung ist eröffnet.
+---
+Wesentliche Eckpunkte: 
+---
+Wesentliche Eckpunkte:
+       * Beliebige Programmiersprache deiner Wahl
+       * Alleine oder im Team
+       * Alle Schwierigkeitslevel vorhanden: von ganz leicht bis ganz schön schwer ist für jeden was dabei
+       * Registrierung und Anmeldung auf CCC
+       * Sei dabei und hab Spaß - Gewinne oder sammle Erfahrung für das nächste Mal!
+--- 
+Was ist zu tun?
+---
+Was ist zu tun?
+    1. Registrieren und Anmelden
+    2. Wähle Contest Typ #school Online
+    3. Wähle dein Team oder sei individuell dabei
+    4. Wir treffen uns ALLE am 5. November, 10:00 (09:00UTC) in der Bibliothek, um gemeinsam 2h den Contest zu bestreiten.
+---
+Bitte schickt mir eine email je Klasse (bis Mittwoch 23:59) mit euren Teilnehmern, damit ich euren Lehrern Bescheid geben kann.
+---
+Bitte auch Test- und Schularbeiten- Termine beachten😉
+---
+Ich freu mich auf zahlreiche Teilnehmer und gute Wettkampfstimmung.
+---
+Ihr habt eine Einladung für die Teams Aufgabe "Übung ProjektCartoons" erhalten!
+---
+Aufgabe war, wie im letzten gemeinsamen Unterricht begonnen und besprochen: 3er Teams erstellen je Cartoon eine Antwort laut Übungsangabe.
+---
+@Klassensprecher: Bitte um Rückmeldung, falls ihr keine Aufgabe seht.
+--- 
+Ich hoffe, der neue Stundenplan ist für die meisten okay!
+---
+Zumindest die beiden Wünsche wurden, soweit ich sehe, erfüllt.
+---
+Bitte folgendes noch bis Do, 29.9 erledigen:
+--- 
+1. auf Teams die Elternverein-Liste ausfüllen und in Klassenmappe einsortieren
+---
+2. Entschuldigungen September in Klassenmappe einsortieren (Schwierige Matheaufgabe: Gesamtstunden anschreiben😉
+--- 
+3. Tischkarton ist noch nicht abgeholt (siehe mail unten => machen wir am DO, 29.9)
+---
+4. Kassier - hat alles geklappt?
+---
+Folgende Infos : 
+---
+1. Auf Teams liegt die aktuelle Schülerliste
+---
+2. die aktuelle KFZ Liste (25.09.2025) wurde von mir weitergeleitet
+---
+Bitte Checken:
+---
+1. Falls sich eure Adresse geändert hat, bitte neuen Meldezettel mitnehmen und mir zeigen.
+--- 
+2. Es kommen noch einige Info-Mails von der Schulleitung => BITTE Mail Adressen eurer Eltern kontrollieren und mir rückmelden, falls eine nicht stimmt.
+---
+Willkommen im neuen Schuljahr der 4CHIF! Ein Jahr noch bis zur Matura!
+---
+Wie auch im letzten Jahr, werde ich Sie über wichtige Belange der Schulleitung informieren.
+---
+Aktuell leite ich im Auftrag von Herrn Hofrat Schweigler aus gegebenem Anlass das Mail der Schulleitung weiter.
+---
+Für Fragen stehe ich auch heure per email gerne zur Verfügung.
+---
+Bitte das neue Projekt ausprobieren, ob es bei euch läuft oder noch immer Probleme macht.
+---
+Max hat es vorab getestet (!), aber falls noch wer Probleme hat, bitte gleich melden, damit wir am Freitag gut weitermachen können.
+---
+1. Zip (ist ohne node_modules) entpacken und in IntelliJ öffnen
+---
+2. Im Terminal im Projektverzeichnis rufe auf: npm install
+---
+3. node_modules Verzeichnis wird dadurch erstellt
+---
+4. Run intro2.js
+---
+5. Ausgabe aller Todos
+---
+GIT zum Ausprobieren:
+---
+Anstelle vom Zip hab ich das Projekt auf Github geladen.
+---
+Installiere git auf deinen Rechner: (bei Mac/Linux https://www.atlassian.com/git/tutorials/install-git)
+---
+Öffne Command-Box und rufe auf: git clone https://github.com/3CHIF-WMC-22-23/intro2_fetch_3CHIF.GIT
+---
+* Projekt in IntelliJ öffnen
+---
+* Im Terminal im Projektverzeichnis rufe: npm install
+---
+* node_modules Verzeichnis wird dadurch erstellt
+---
+* Run intro2.js
+---
+* Ausgabe aller Todos
+---
+Hoffe es worked:)
+---
+Ich habe die Aufgabe nicht mitgesendet:
+---
+Bitte um Rückmeldung, wer mit der neuen Projektversion NOCH PROBLEME hat.
+---
+Bei Problem: Screenshots und Zip-Projekt bitte mir MORGEN 8:00 senden!
+---
+Allerdings würde ich mich SEHR FREUEN, wenn ich kein Problem Mail bekomme:) Mal schauen 😉
+---
+Hi, Letzte Abgabemöglichkeit ist 2300 , leider sieht man nur geplanten Abgabetermin.
+---
+Erstes Treffen für Informationen zum Contest HEUTE um 10:45 (nach der Pause) im Buffetbereich.
+---
+Bitte fragt eure Lehrer, ob ihr kurz vorbeikommen könnt.
+---
+Die Anmeldung ist eröffnet.
+---
+Am 11. November ist wieder der Wettbewerb von https://register.codingcontest.org/info/how-it-works.
+---
+Habe ich eure Anmeldungen zum contest übersehen?
+---
+Würde mich sehr freuen, wenn einige von euch dabei wären:)
+---
+@klassensprecher + Stellvertreter: Bitte um Rückmeldung
+---
+Text im Formular wurde angepasst.
+---
+Danke für die Rückmeldung.
+---
+Hoffe, jetzt ist alles klar.
+---
+Ich war leider gestern nicht in der Schule.
+---
+Vorteil: ihr hattet eine Stunde Zeit für Lernen, Geschenke kaufen oder einer Playlist zu lauschen😉
+---
+Zur Abwechslung noch  eine - etwas andere - Playlist.
+---
+Am 13.1. haben wir die erste PLF1.
+---
+Am elearn ist der Stoff und andere Informationen zur PLF1.
+---
+Um APIs zu üben könnt ihr eure eigenen GET Fetch APIs mit Json Objekte erstellen: https://designer.mocky.io/
+---
+JSON können überprüft werden mit:
+JSON Validator & Formator
+
+    Validate & Format: https://jsonformatter.curiousconcept.com/#
+    Validate: https://jsonlint.com/
+---
+Als Unterstützung für eure Pflichtenheftausarbeitungen gibt es am elearn Server unter Systemanalyse & Anforderungen:
+---
+=> Vertiefung in  "User Stories & AkzeptanzKriterien & Wireframe" => Siehe Übungsangabe
+---
+Abgaben sind eingerichtet.
+---
+Leider konnte ich am Tag der offenen Tür nicht dabei sein. Auf jedem Fall Danke für euren Einsatz:))
+---
+Ihr habt jetzt sicher schon eine gute Idee für euer Sommersemester Projekt. 
+---
+Einer Gruppe habe ich noch Unterlagen zu einem vorhandenen Projekt versprochen. Diese kommen diese Woche.
+---
+Es gibt auch noch weitere Projektideen!
+---
+Dann kann euer Pflichtenheft gemacht werden und dann gehts weiter zur Umsetzung in SCRUM.
+---
+Am Elearn-Server findet ihr 3 kurze Videos unter 
+---
+=> Scrum Prozess: Ablauf, Sprint und Meetings
+---
+Als "kleine" HÜ (Aufwand ca 30Min), bitte Video1 und Video2 ansehen und Begriffe  mitschreiben.
+---
+Playlist ....
+---
+Die Videos besprechen wir am Freitag! => Es gibt ein Motivation Kahoot:)
+---
+Und ein Schüler hat eine Playlist angekündigt, stimmts?
+---
+http://44.209.164.167/
+---
+Falls noch jemand ein Projektthema sucht:
+---
+Titel: Projektbörse für Firmen und Partner
+---
+Ausgangssituation: In den 4ten und 5ten Jahrgängen werden Projekte mit Firmen oder mit anderen Auftraggebern durchgeführt.
+---
+Projekte werden derzeit mündlich oder per mail erfasst. Es gibt kkeinen gesamten Überblick an vorhandenen Projekten bzw. welche Projekte noch frei oder vergeben sind.
+---
+Idee: Eine Projektbörse soll als WebApplikation erstellt werdem, wo Firmen und Partner ihre Projekte einfügen, ändern oder löschen können.
+---
+Weiters soll der Status (vergeben, in Arbeit, ...)  möglich sein.
+---
+Schüler und Lehrer können Projekte  und Status und Ansprechpartner sehen und mit Ansprechpartner in Kontakt treten.
+---
+Eure Namen habe ich euren Lehrern und der Schulleitung für Montag gemeldet.
+---
+Ich kann am Montag leider nicht mit dabei sein.
+---
+Hab  meine blaue 1Liter Plastiktrinkflasche(blauer Schraubverschluss)in der letzten Reihe rechts stehen lassen.
+---
+Bitte nach vorne auf Lehrertisch stellen. Prof KW holt sie Montag ab.
+---
+Danke
+---
+Wie besprochen ist der Test am Dienstag.
+---
+Hier nochheinmal  die Beschreibung der heutigen HÜ2:
+---
+Branch HÜ2: Im Projekt ist der heute gemeinsam erstellte Code zum Lösen der HÜ2.
+---
+*setSeletectBook und Props
+---
+*Layout-Vorlage
+---
+*App: Layout-Route
+---
+Deine Aufgabe: siehe auch README_HÜ2.
+---
+* In Bookline soll Book selektiert werden.
+---
+* Layout mit Header und Footer
+---
+*Footer mit Anzeige der selectedBook-Details.
+---
+Auf Gitlab ist das Projekt mit Branches main(Gemeinsam erstellter Code vom Projektstart), Hü1 (Lösung der HÜ1) und HÜ2 (Heute gemeinsam erstellter Code zum Lösen der HÜ2).
+---
+Im Projekt sind Readme's, die die einzelnen Branches genauer  beschreiben:
+---
+git clone https://gitlab.com/htbla-kaindorf/informatik-23/wmc/wmc-4chif-vk_lb/wmc_4c_bookstore_23_2.gi
+---
+Hier alle anderen Branches im Projekt mit kurzer Beschreibung:
+---
+Main:
+---
+Code mit App, Home, Edit
+---
+HÜ1:  siehe auch README_HÜ1.
+---
+Code mit Bookline und Title ergänzt
+---
+Für Fragen stehe ich gerne zur Verfügung.
+---
+Neue URL:
+https://gitlab.com/htbla-kaindorf/informatik-23/wmc/wmc-4chif-vk_lb/all/wmc_4c_bookstore_23_2.git
+---
+Nur 2 von euch waren bei mir.
+---
+Bitte rechtzeitige Rückmeldungen, ob ihr auf das Repo zugreifen könnt oder nicht.
+---
+Alles klar bei der HÜ2?
+---
+Die Variante2 ist auf GitLAb, wo Context uzm Selketieren eines Books erklärt wird. (SIehe Readme!)
+---
+Am elean-Kurs ist die HÜ MitarbeitDashboard.
+---
+2 Views:
+---
+TeacherDashboard: Es ist nur ein Schüler über den OverviewContext zu selektieren
+---
+OverviewDashboard: der selektierte Schüler wird über den OverviewContext anzuzeigen.
+---
+Mehr nicht.
+---
+Bis nächste Dienstag.
+---
+Bitte vorher fragen, wenn etwas nicht klar ist oder klappt.
+---
+Zusammenarbeit erlaubt/erwünscht/erwartet😉
+---
+Am 20. Oktober (diese Woche Freitag) ist wieder der Wettbewerb von https://register.codingcontest.org/info/how-it-works.
+---
+Die Anmeldung ist eröffnet.
+---
+Treffpunkt 9:55 vor der Bibliothek mit Notebooks
+---
+Cloudflight Coding Contest
+---
+HÜ5:
+---
+Nachdem nächste Woche am Mittwoch 25.10 WMC entfällt, ist die Abgabe"MitarbeitDashboardStatistik" bis 6.11 auf GitLab hochzuladen. 
+---
+Der Repo-Link kommt noch.
+---
+Angabe ist auf elearn: HÜ: Aufgabe bis 6.11, 08:00:  Exa_WMC_4J_MitarbeitDashboardStatistik_reactonly_contextonly.pdf
+---
+Das Projekt ist eine Erweiterung vom Projekt MitarbeitDashboard d.h. ihr könnt den Statistikteil im gleichen Projekt ergänzen.
+---
+Im Projekt werden beide Context-Pattern verwendet.
+---
+Wenn Fragen sind, bitte am Dienstag oder per Email.
+---
+Bitte gleich fragen, wenn etwas nicht klar ist oder nicht klappt.
+---
+Zusammenarbeit erlaubt/erwünscht/erwartet😉
+---
+Zur Unterstützung ist eine VideoAnleitung auf Teams:
+---
+Siehe auch Skriptum zum Nachlesen. (z.B.: auch Kontext  u.a.)
+---
+Ich hoffe ihr hattet schöne Herbstferien.
+---
+Es sollten die GitLab-Projekte (ex02_mitarbeitdashboard und ex01_bookstorealles) für die beiden Beispiele in eurem GitLab zu sehen sein.
+---
+Bitte dort eure Projekte bis nächste Woche hochladen. Termine am elearn Server.
+---
+Termine am elearn Server.
+---
+@GitLab Account: Diejenige Schüler, die nicht in der ersten Liste dabei waren (siehe Anhang) können erst abgeben, wenn ich die vollständige Liste habe.
+---
+Bei folgenden hatte ich eine Fehlermeldung: Bitte überprüfen und auch in die Liste schreiben.
+---
+@Klassensprecher:
+        1. Bitte fehlende Namen und Accounts (Email) in Liste ergänzen und mir bist 6.11. 08:00 senden.
+        2. Bitte um Rückmeldung bis Montag 10:00, wie das Hochladen funktioniert.
+---
+WMC4chif 
+---
+aber mit Playlist;)
+---
+Ich bin leider im Krankenstand,  aber bis morgen bekommt ihr die Soccer Lösung und eine weitere Übung. Prof LB ist in der Schule. Bei Unklarheiten fragt bitte ihn.
+---
+Nein , siehe WebUntis!
+---
+Mit Üben war zuhause üben, , gemeint. Alleine oder im Team,
+---
+1. PLF- keine Sorge ! Wir haben erst am 6.12. die PLF !!!
+---
+2. Übung - keine Sorge: Morgen Nachmittag ist kein Unterricht.
+---
+3. Die Übung ist bis nächste Woche 22.11 geplant: =>Siehe elearn Server:
+---
+Die Herausforderung - keine Sorge => ist FREIWILLIG!
+---
+4. Lösung vom SoccerManager ist aufGitLab:
+https://gitlab.com/htbla-kaindorf/informatik-23/wmc/4x_all/ex03_soccermanager.git
+---
+5. Abgabe der beiden Übungen: Soccermanager und Fahrterleichterung: Richte ich ein und  melde mich, sobald ich kann.
+---
+1. Playlist für FR- keine Sorge: Werde ich hoffentlich schaffen
+---
+6. 22.11. Nächste Woche : Reviews und Vorbereitung PLF
+---
+ALSO - keine SORGE - es klappt alles:)
+---
+siehe GitLab
+https://gitlab.com/htbla-kaindorf/informatik-23/wmc/4x_all/ex_05_wetterstation_filter.git
+---
+Am elearn unter MERN gibt es ein Dokument Theorie MERN.
+---
+Nachdem einige Schüler am Mittwoch nicht in der Schule bei der PLF waren, gibt es einen 2.Termin am fr. 9.2.11:35 bis 13:15. (für beteiligte Schüler ist 5h mit WB geklärt)
+---
+Schüler mit Fahrterleichterung sollten sich Mitfahrgelegenheiten suchen.
+---
+Stoff ist der gleiche.
+---
+Ohje, ich habe die Schüler vergessen einzuladen,  die bei Plf2 gefehlt haben.
+---
+Ihr natürlich auch.
+---
+Ich bin morgen nicht in der Schule.
+---
+Prof.Kohlweg ist morgen bei euch.
+---
+Worktask:
+---
+Fügt zu unserem MERN Projekt Playlist einen jest Test für das Backend hinzu.
+---
+Prof. Wilfling ist morgen bei euch.
+---
+Genau in 2 WOCHEN, am Freitag 1. März veranstaltet die Firma KNAPP wieder einen Contest.
+---
+HEUTE - JETZT - Einfach ANMELDEN:
+https://www.coding-contest.at/
+---
+Alle Informationen sind dort vorhanden.
+---
+Anreise zu Knapp ist mit Öffis möglich.
+---
+Der Contest ist heuer wieder während der Schulzeit, daher muss die Schulleitung informiert werden.
+---
+08:30 – 09:00 Uhr: Eintreffen und Anmeldungen
+---
+Bitte auch Test- und Schularbeiten- Termine beachten😉
+---
+@Klassensprecher: Bitte sendet mir ein Mail mit Namen der teilnehmenden Schüler,  damit ich diese der Schulleitung und den Lehrern für Unterricht am Montag bekanntgeben kann.
+---
+Mail bitte bis Mo 26.2. 9:00. senden.
+---
+Für Fragen stehe ich gerne zur Verfügung.
+---
+Einige Rückmeldungen habe ich schon erhalten. Danke!
+---
+Ich hoffe, es haben sich viele angemeldet, damit wir wieder vorne dabei sein.
+---
+Hatte jeder das Preisgeld gesehen😉
+---
+@Klassensprecher: Bitte sendet mir ein Mail mit Namen der teilnehmenden Schüler,  damit ich diese der Schulleitung und den Lehrern für Unterricht am Montag bekanntgeben kann.
+---
+Mail bitte bis Mo 26.2. 9:00. senden.
+---
+Informationen über Treffen bekommt ihr danach!
+---
+Welche Playlist ist notwendig,  um die vielen Bit Profis in eurer Klasse für Freitag zu motivieren? 😉
+---
+Würde mich freuen und natürliche eine Playlist zusammenstellen?
+---
+Danke, welche Klasse?
+---
+Eh klar:)
+---
+Danke
+---
+Wir treffen uns morgen, am Mittwoch 28.2.2024 in der 4AHIF um 8:50 für kurze 5 Minuten.
+---
+Falls eure Klasse da nicht dabei ist, oder ihr noch mit wollt, bitte melden.
+---
+Der Knapp Coding Contest ist vorbei und schon geht es weiter zum nächsten Contest.
+---
+Noch einmal die HÜ zum Thema "Cypress Test".
+---
+@Roman: Angabe jetzt als PDF vorhanden
+---
+Ihr könnt natürlich jetzt schon emails bei Unklarheiten senden, die wir in der Woche nach Ostern besprechen werden.
+---
+    1.  Die  im Unterricht besprochene HÜ vom Frontend-Test  "Cypress-UI-Test_Intro_HÜ" ...
+....ist hier abzugeben:
+---
+2. Eine weitere Übung (für den Unterricht) für die PLF3 ist bereits am elearn:
+---
+NEU am elearn Server ist ein Template, das ähnlich zur PLF ist.
+---
+Weiters wurde Übungen und Lösungshilfen angepasst.
+---
+Morgen findet die PLF auf Ultimate und mit Browser statt.
+---
+Zum Üben:
+---
+Unbedingt starten mit
+
+npx expo start --offline
+---
+und dann w für Browser
+---
+dann sind eure Projekte binnen Sekunden am Browser
+
+sichtbar.
+---
+Mit der WebKonsole kann dann in den Mobile Modus geschaltet werden und das Ergebnis betrachtet werden.
+---
+Touch ist natürlich nur mit Maus möglich.
+---
+Ich bin morgen leider nicht da, daher folgender Auftrag.
+---
+Wir machen ein Projekt mit folgenden Rahmenbedingungen:
+---
+Folgende Schüler haben noch Prüfungen zum Ausbessern der NG und machen daher Einzelprojekte.
+---
+Startet morgen mit:
+---
+* Gruppenfindung: tragt euch in diese Excel-Liste ein:4CHIF_WMC_Gruppen.xlsx
+---
+* Idee: User Stories (Wer, Was, Wozu) in einem Product Backlog
+---
+* Wireframe: ein einfacher Design (handgezeichnet oder mit Tool), um einen besseren Überblick zu bekommen.
+---
+Noch Infos zum Projekt: 
+---
+FE: React Native
+---
+BE: Express
+---
+Ich freue  mich, dass ich am Mittwoch endlich wieder in der 4CHIF sein darf.
+---
+Auch freue ich mich auf eure sicher tollen Projekte.
+---
+Wir machen die Reviews wie gewohnt:
+---
+Auf jedem Rechner oder Handy im Team soll eure Anwendung / Frontend und Backend / laufen.
+---
+Jeder im Team erklärt einige wesentlichen Codeteile anhand der User Stories oder Tasks im Trello Board.
+---
+Zeitplan für Reviews kommt noch, damit wir alle am Nachmittag Reviews können.
+---
+Schönen Sommer 
+und danach wieder mehr Playlists
+---
+Für heute im Unterricht:
+---
+Ich bin morgen Science Garden.
+---
+Alles für morgen darunter.
+---
+Ohrhörer mitnehmen für Video.
+---
+.1 eLearnServer Kurs:
+
+HTBLA Kaindorf
+INF
+WMC
+WMC_5BCHIF_vk_24_25
+---
+Passwort: WMC5chif
+---
+Im elearn Kurs: Nicht verwirren lassen. 
+---
+* Angaben und Abgaben Bereich: Es gibt einen Bereich "5CHIF"  wo alle Abgaben mit Abgabedatum und Link zu den Abgaben und Abgabe-Format der Datei für euch als 5CHIF zu sehen sind.
+---
+* Allgemeine Unterlagen: Vor dem Bereich sind allgemeine Unterlagen:
+---
+.2 Wir starten mit ID Management und JWT
+---
+Bitte als Task für Freitag am elearn Server:
+---
+Allgemeine Unterlagen und Übungsangaben:
+---
+HÜ:
+---
+Das Video ist als Tutorial zum Nachprogrammieren gedacht.
+---
+Bis nächste Woche : Intro JWT Projekt
+---
+Schreibt JWT Begriffe und wesentliche Erkenntnisse entweder als Kommentar im Code oder als PDF in ein eigenes Dokument.
+---
+Abgaben für 5CHIF:
+---
+Es sind Links
+---
+Bitte erstellt ein GitLab Repo unter: https://gitlab.com/htbla-kaindorf/informatik-24/wmc/wmc-5chif-vk/ue_id.jwt1_intro1
+---
+Repo-Name :"ue_id.jwt1_intro1_familienname"
+---
+Wie besprochen ist der Termin der Abgabe für das gesamte SSO Projekt am elearn Server auf den 25.10. , 08:00 geändert worden.
+---
+Einige Schüler sind zu mir gekommen und wir haben noch folgende JWT Maßnahmen besprochen, damit ihr für die PLF als auch für die Matura optimal vorbereitet werdet:
+---
+25.10.
+---
+1. Musterlösungen vom JWT Intro Backend (Video) und Frontend
+---
+2. Musterlösungen vom SSO Projekt (aktuelles Projekt)
+---
+3. Besprechung wesentlicher JWT Teile im SSP Projekt (Fragen erwünscht)
+---
+4. ProbePLf mit Musterlösung
+---
+5. Review einzelner Schüler (Freiwillige gewünscht)
+---
+Meine Bitte:
+---
+5. Generell Fragen zeitnah zu den Übungen stellen.
+---
+z.B. Für JWT Intro Video
+---
+a) Ich bin in der Klasse bzw. schaue bei den Lernzonen vorbei, jeder kann mit Fragen zu mir kommen oder am Ende oder Anfang vom Unterricht stellen.
+---
+b) Am Tag der Abgabe stelle ich Lösung vor (HTTP Client Testes vorgezeigt, wesentliche Code Teile und Ablauf besprochen)
+---
+Zur Info: Hier wäre ein guter Zeitpunkt für Fragen. Wenn keine Fragen kommen, glaube ich, dass alles klar ist und ich zum nächsten Punkt weitergehen kann.
+---
+Allgemeines für heuer:
+---
+* Stoffumfang für RDP wird ca November bekannt gegeben.
+---
+* Wir machen Stoff bis ca. Februar
+---
+* Ab ca Februar wiederholen wir alle Stoff-Themen anhand von Bespielen
+---
+* Unser WMC (2er Teams) Projekt. Nach der Plf haben wir Zeit, das Thema JWT in das Projekt einzubinden. Was genau wird nach der PLF bekannt gegeben.
+---
+Ich hoffe, dass ich damit alle Bedenken bzgl PLF und RDP  und Projekt ausgeräumt habe.
+---
+Bei Fragen natürlich jederzeit zu mir kommen oder email senden.
+---
+meine vorbereitete Playlist muss verschoben werden
+---
+Gestern war für mich Mittwoch und daher heute Donnerstag , wo ich in der Schule bin.
+---
+Nur war gestern Dienstag und heute ist daher erst Mittwoch , wo ich nicht in der Schule bin.
+---
+Daher: Bitte alles ausfüllen und wir machen es morgen DO:)
+---
+Bitte Ranking und Team und  noch 1, 2 Sätze oder Stichwörter über euren Eindruck, bzw über eure Stimmung beim Contest:)
+---
+Der elearn ist gerade down, daher anbei weitere Übung "socialmedia" als freiwillige Vorbereitung für die PLF1.
+---
+Natürlich ist der Umfang der Plf an die vorhandene Zeit angepasst.
+---
+Wichtig: Siehe Ergänzungen unten.
+---
+Ich schaue morgen noch einmal bei euch vorbei, um eventuelle Fragen zu beantworten.
+---
+Sendet mir gerne vorab, eventuelle Fragen oder Probleme mit Screenshots.
+---
+ERWEITERUNGEN
+---
+Auslagern vom Typescript Code in Services auch in React:
+---
+Anbei die Übungslösungen zu den Übungsprojekten:
+---
+PLF1 Stoff:
+---
+Express
+
+    Typescript
+    Routes, 
+    Auslagern in ts.Dateien,
+     JWT (generieren, prüfen , Payload auslesen)
+    Auslesen der Parameter aus: body, header, URL-Query, Router-Param
+---
+Vite React
+
+    typescript
+    Navigation mit BrowserRoutes
+    Hooks: useStates, useEffect
+    Link, Path
+    Auslagern in ts.Dateien,
+     JWT (generieren, prüfen , Payload auslesen)
+    Übergabe der Parameter beim Request: body, header, URL-Query, Router-Param
+    HTML Komponenten: Tabelle, Liste, Aufzählung, Eingabe, Button und Eventso
+---
+Es kommt NICHT: Express Server erstellen oder Konfigurieren, Cookies, Hashing, Context,Layout,
+---
+Es wird für die PLF ein Template mit mindestens Interfaces, Funktions-Köpfen geben.
+---
+Es wird ein HTTP-Test vorhanden sein
+---
+Angabe zu ProductAccess-Intro.
+---
+Ich habe die Antworten gelb markiert und auch die Teile im PLF Stoff gelb markiert, die eure Fragen betreffen.
+---
+Ist jetzt alles klar? Sonst bitte noch ein email. Ich muss aber in 15 Minuten meine Tochter abholen.
+---
+Antworten zu euren Fragen 
+---
+1. Wird die Grundstruktur der Dateien bereits vorgegeben? => Siehe Stoff vom letzten email!
+---
+2. Werden die HTTP-Tests vollständig bereitgestellt?=> Siehe Stoff vom letzten email!
+---
+3. Ist der App.tsx-File von uns zu bearbeiten?=> Siehe Stoff vom letzten email!
+---
+4. Wird ein Footer benötigt?=> Siehe Stoff vom letzten email!
+---
+5. Werden alle Mockdaten bereitgestellt? JA, wie bisher bei PLFs, um zeit für die eigentliche Aufgabe zu sparen.
+---
+6. Müssen wir uns mit Berechtigungen auseinandersetzen? JA, siehe meine beiden Lösungen vom letzten email Role BAses Acces Controol RBAC!
+---
+7. Was ist unter dem „Auslagern in .ts-Dateien“ konkret zu verstehen? Hilfsfunktionen z.B generateToken() , verifyToken, decodeToken usw, wie z.B. in meiner Lösung "wmc_intro2_JWT-secure-RBA_STS-RouteParam-Storage_productAccess_24_vk_bereinigt.zip" vom letzten email.
+---
+8. Weshalb wird im SSO-Projekt das Auth-Token in die URL eingefügt? Das ist eine Möglichkeit, um Daten zu übergeben. Siehe Stoff "Übergabe der Parameter"
+---
+Es kommt NICHT: Express Server erstellen oder Konfigurieren, Cookies, Hashing, Context,Layout,
+---
+Es wird für die PLF ein Template mit mindestens Interfaces, Funktions-Köpfen geben.
+---
+1. Könnt ihr eine Aufgabe wie folgt sehen:
+---
+2. Seht ihr noch andere Aufgaben und Inhalte?
+---
+3. Bitte ausprobieren, ob eine Testdaten.txt (irgendeinen Inhalt) hochladen geht.
+---
+Die Noten kommen am Wochenende, spätestens am Montag.
+---
+Bitte für heute in WMC 🙂 eine Übung zu Strategy, die wir in unserem WS-Projekt brauchen
+---
+Siehe euren Team Link WMC unter "Design Pattern"
+---
+Danke für die Rückmeldung.
+---
+Bitte als  HÜ. Eine Stunde Aufwand.
+---
+Wir bauen es nächste ein.
+---
+Note,bis inkl. Prozent,Bis inkl. Punkte
+5,   50 ,    25.0
+4,  65,  32.5
+3,  80,   40.0
+2,  90,   45.0
+1,  100,   50.0
+---
+HEUTE: Wie schon besprochen:
+---
+Bitte heute selbstständig an eurem WMC -Projekt arbeiten.
+---
+Wer eine bessere Note möchte kann jetzt im EDV3 vorbeikommen.
+---
+* EINZELN vorbeischauen.
+---
+* Regel zum Erreichen der Punkte für Reviews: Für jede HÜ -Review sind maximal 0.2 Punkte zur Note möglich.
+---
++ Z.B. Schüler steht nach PLF1 auf Note 3.2 . HÜ1 hat 0.2 Punkte => neuer Stand: Note 3 (SemesterNote)
+---
++ Eine ganze Note besser ist mit 3 HÜ-Reviews möglich 
+---
++ Das Projekt bekommt 0.4 Punkte die auf 2 Schüler aufgeteilt wird. d.h. ein Schüler kann 0.12 der andere 0.38 erhalten oder beide gleich 0.2  und 0.2. 
+---
+Noten sind für 5 Minuten sichtbar unter:
+---
+Die Prüfungsergebnisse und Noten WS (Stand nach Kommanoten ohne Review) sind wieder am SharePoint-Ordner als Excel. Ich entferne sie am Nachmittag.
+---
+In der Spalte Review steht min1. Review d.h. für Unterricht diese Woche vorbereiten eines der HÜ.
+---
+Für Fragen stehe ich morgen oder Freitag zur Verfügung.
+---
+Ihr seid gerade im ersten Sprint und ich hoffe, ihr habt ordentlich Spaß(mehr als in der Schule😉)
+---
+Für die offizielle Diplomarbeit DA 24 sind ein paar wesentliche Dinge während der Umsetzung zu tun.
+---
+Einerseits für die Umsetzungsplannung verwendet Trello.
+---
+Verschiedene Dokumente für Planung und Meetings.
+---
+Und wichtig die Zeiterfassung. (Vorlage verwenden im Anhang)
+---
+Alles ist  in den Dokumenten im Anhang zusammengefasst.
+---
+Habt ihr nach der Pause kurz Zeit für Status mit ACL?
+---
+NWL 10:50
+---
+Bitte Ende der Woche per Telefon bei ihm nachfragen und mir rückmelden.
+---
+Bitte macht auch wie besprechen beim Plan "B" weiter, d.h. welche weiteren Features ohne HW könnt ihr noch machen und auch am Fr besprechen.
+---
+User Stories, Mockups wie üblich.
+---
+Bitte morgen um 15:30 kurzes Treffen in der 5AHIF.
+---
+Passt?
+---
+Alles vorhandene DA Dokument (Inhaltsverzeichnis) und Projekt mitnehmen.
+---
+Wie schon angekündigt,  heute vollständigen Überblick eurer DA.
+---
+* Trello: alle Sprints und Tasks mit verantwortlichen Diplomanden
+---
+* Funktionierende Produkt
+---
+* Excel mit User Stories und Tasks je Diplomand
+---
+* DA Dokument: mindestens Inhaltsverzeichnis und Zuordnung je Verantwortlichen Diplomand
+---
+* Meilensteine: Ist /Soll
+---
+* Sonstiges
+---
+Passt: 14:15 in der 5AHIF
+---
+Es war ein DA Termin 4.h und 5h.
+---
+Jeder sendet mir bis morgen ein Video: mindesten 15Minuten
+---
+1. Erklärung TrelloScrumBoard: Was ist dort zusehen ? Org, Reports, Plannung, Sprints und Reviews
+---
+2. Erklärung ExcelListe: alle User Stories und alle meine Tasks (Mit Scrum Board abgestimmt)
+---
+3. Laufendes Projekt: abgestimmt mit allen meinen User Stories oder Tasks
+---
+4. Source Code:: abgestimmt mit allen meinen User Stories oder Tasks
+---
+Jeder sendet mir bis morgen einen Link, wo alle Unterlagen zu finden sind:
+---
+1. TrelloScrumBoard
+---
+2. ExcelListe
+---
+3. Source Code (Git-Link)
+---
+4. Das Projekt sollte bei mir zu starten gehen.
+---
+Nachtrag;
+---
+5. Inhaltsverzeichnis DA Dokument mit Verantwortlichen je Kapitel
+---
+6. Meilensteine IST/Soll
+---
+Sende mir a.s.a.p. einen Link, wo alle Unterlagen zu finden sind:
+---
+5. Inhaltsverzeichnis DA Dokument mit Verantwortlichen je Kapitel
+6. Meilensteine IST/Soll
+--- 
+Termin: Di, 7.1. 14:00.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
+Auch Forschungsfrage.
+---
