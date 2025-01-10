@@ -1,4 +1,6 @@
 mod ollama;
+mod random;
+mod util;
 
 use ollama::generate_mail;
 use tokio::runtime::Runtime;
