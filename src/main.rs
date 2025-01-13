@@ -3,6 +3,7 @@ mod random;
 mod util;
 
 use ollama::generate_mail;
+use random::generate_random_mail;
 use tokio::runtime::Runtime;
 use std::io::{self, Write};
 
@@ -13,7 +14,7 @@ fn main() {
     loop {
         println!("Please choose an option:");
         println!("1. Generate email using Ollama");
-        println!("2. Generate email using .....");
+        println!("2. Generate email using random generation");
         println!("q. Quit");
 
         print!("Your choice: ");
@@ -29,11 +30,14 @@ fn main() {
                 // Call the generate_mail function from ollama.rs
                 match runtime.block_on(generate_mail()) {
                     Ok(response) => println!("Generated mail:\n\n{}", response),
-                    Err(e) => eprintln!("Error generating mail: {}", e),
+                    Err(e) => eprintln!("Error generating mail: {}", e)
                 }
             }
             "2" => {
-                println!("Generated mail:\n\n");
+                match generate_random_mail() {
+                    Ok(mail) => println!("Generated mail:\n\n{}", mail),
+                    Err(e) => eprintln!("Error generating mail: {}", e)
+                }
             }
             "q" => {
                 println!("Exiting...");
