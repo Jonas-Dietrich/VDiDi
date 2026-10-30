@@ -15,7 +15,7 @@ pub async fn generate_mail() -> Result<String, Box<dyn std::error::Error>> {
     let ending = choose_random_line(&endings);
 
     // Generate a new ollama Client and open a connection
-    let ollama = Ollama::new("http://localhost".to_string(), 11434);
+    let ollama = Ollama::new("http://127.0.0.1".to_string(), 11434);
     let model = "dolphin-mistral:latest".to_string();
 
     let prompt = format!(
